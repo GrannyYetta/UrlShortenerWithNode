@@ -1,0 +1,14 @@
+{
+  "name": "urlshortenerwithnode",
+  "version": "1.0.0",
+  "description": "For this project I followed a tutorial (https://blog.logrocket.com/how-build-url-shortener-node-js/#how-url-shortener-differ-short-link-generator)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
